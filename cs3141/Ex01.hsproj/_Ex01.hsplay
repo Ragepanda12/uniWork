@@ -1,0 +1,25 @@
+-- Haskell Playground 1.0
+
+
+drawPicture 10 [Path [Point 0 0, Point 300 300] red Solid]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
